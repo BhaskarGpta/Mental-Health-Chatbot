@@ -8,3 +8,7 @@ docs
 main.py
 models
 __pycache__
+my_model.h5
+my_model_face.h5
+tokenizer.pkl
+tokenizer_five.pkl
