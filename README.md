@@ -1,6 +1,6 @@
 # Mental Health Chatbot
 
-This project focuses on emotion classification using various machine learning techniques to support a mental health chatbot.
+This project focuses on emotion classification using various machine learning techniques and to support a mental health chatbot in generating responses catered towards specific needs
 
 ## Table of Contents
 
